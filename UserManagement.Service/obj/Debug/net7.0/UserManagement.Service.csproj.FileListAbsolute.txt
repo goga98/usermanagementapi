@@ -1,0 +1,17 @@
+D:\UserManagement.API\UserManagement.Service\bin\Debug\net7.0\UserManagement.Service.deps.json
+D:\UserManagement.API\UserManagement.Service\bin\Debug\net7.0\UserManagement.Service.dll
+D:\UserManagement.API\UserManagement.Service\bin\Debug\net7.0\UserManagement.Service.pdb
+D:\UserManagement.API\UserManagement.Service\bin\Debug\net7.0\UserManagement.Domain.dll
+D:\UserManagement.API\UserManagement.Service\bin\Debug\net7.0\UserManagement.Shared.dll
+D:\UserManagement.API\UserManagement.Service\bin\Debug\net7.0\UserManagement.Domain.pdb
+D:\UserManagement.API\UserManagement.Service\bin\Debug\net7.0\UserManagement.Shared.pdb
+D:\UserManagement.API\UserManagement.Service\obj\Debug\net7.0\UserManagement.Service.csproj.AssemblyReference.cache
+D:\UserManagement.API\UserManagement.Service\obj\Debug\net7.0\UserManagement.Service.GeneratedMSBuildEditorConfig.editorconfig
+D:\UserManagement.API\UserManagement.Service\obj\Debug\net7.0\UserManagement.Service.AssemblyInfoInputs.cache
+D:\UserManagement.API\UserManagement.Service\obj\Debug\net7.0\UserManagement.Service.AssemblyInfo.cs
+D:\UserManagement.API\UserManagement.Service\obj\Debug\net7.0\UserManagement.Service.csproj.CoreCompileInputs.cache
+D:\UserManagement.API\UserManagement.Service\obj\Debug\net7.0\UserManagement.Service.csproj.CopyComplete
+D:\UserManagement.API\UserManagement.Service\obj\Debug\net7.0\UserManagement.Service.dll
+D:\UserManagement.API\UserManagement.Service\obj\Debug\net7.0\refint\UserManagement.Service.dll
+D:\UserManagement.API\UserManagement.Service\obj\Debug\net7.0\UserManagement.Service.pdb
+D:\UserManagement.API\UserManagement.Service\obj\Debug\net7.0\ref\UserManagement.Service.dll

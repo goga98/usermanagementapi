@@ -1,0 +1,47 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "UserManagement.Service/1.0.0": {
+        "dependencies": {
+          "UserManagement.Domain": "1.0.0",
+          "UserManagement.Shared": "1.0.0"
+        },
+        "runtime": {
+          "UserManagement.Service.dll": {}
+        }
+      },
+      "UserManagement.Domain/1.0.0": {
+        "runtime": {
+          "UserManagement.Domain.dll": {}
+        }
+      },
+      "UserManagement.Shared/1.0.0": {
+        "runtime": {
+          "UserManagement.Shared.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "UserManagement.Service/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserManagement.Domain/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    },
+    "UserManagement.Shared/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

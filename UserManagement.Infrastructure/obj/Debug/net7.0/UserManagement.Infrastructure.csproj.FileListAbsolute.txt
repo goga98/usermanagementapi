@@ -1,0 +1,17 @@
+D:\UserManagement.API\UserManagement.Infrastructure\bin\Debug\net7.0\UserManagement.Infrastructure.deps.json
+D:\UserManagement.API\UserManagement.Infrastructure\bin\Debug\net7.0\UserManagement.Infrastructure.dll
+D:\UserManagement.API\UserManagement.Infrastructure\bin\Debug\net7.0\UserManagement.Infrastructure.pdb
+D:\UserManagement.API\UserManagement.Infrastructure\bin\Debug\net7.0\UserManagement.Domain.dll
+D:\UserManagement.API\UserManagement.Infrastructure\bin\Debug\net7.0\UserManagement.Domain.pdb
+D:\UserManagement.API\UserManagement.Infrastructure\obj\Debug\net7.0\UserManagement.Infrastructure.csproj.AssemblyReference.cache
+D:\UserManagement.API\UserManagement.Infrastructure\obj\Debug\net7.0\UserManagement.Infrastructure.GeneratedMSBuildEditorConfig.editorconfig
+D:\UserManagement.API\UserManagement.Infrastructure\obj\Debug\net7.0\UserManagement.Infrastructure.AssemblyInfoInputs.cache
+D:\UserManagement.API\UserManagement.Infrastructure\obj\Debug\net7.0\UserManagement.Infrastructure.AssemblyInfo.cs
+D:\UserManagement.API\UserManagement.Infrastructure\obj\Debug\net7.0\UserManagement.Infrastructure.csproj.CoreCompileInputs.cache
+D:\UserManagement.API\UserManagement.Infrastructure\obj\Debug\net7.0\UserManagement.Infrastructure.csproj.CopyComplete
+D:\UserManagement.API\UserManagement.Infrastructure\obj\Debug\net7.0\UserManagement.Infrastructure.dll
+D:\UserManagement.API\UserManagement.Infrastructure\obj\Debug\net7.0\refint\UserManagement.Infrastructure.dll
+D:\UserManagement.API\UserManagement.Infrastructure\obj\Debug\net7.0\UserManagement.Infrastructure.pdb
+D:\UserManagement.API\UserManagement.Infrastructure\obj\Debug\net7.0\ref\UserManagement.Infrastructure.dll
+D:\UserManagement.API\UserManagement.Infrastructure\bin\Debug\net7.0\UserManagement.Infrastructure.runtimeconfig.json
+D:\UserManagement.API\UserManagement.Infrastructure\obj\Debug\net7.0\UserManagement.Infrastructure.genruntimeconfig.cache

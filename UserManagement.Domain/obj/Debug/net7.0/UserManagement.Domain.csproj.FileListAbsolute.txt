@@ -1,0 +1,11 @@
+D:\UserManagement.API\UserManagement.Domain\bin\Debug\net7.0\UserManagement.Domain.deps.json
+D:\UserManagement.API\UserManagement.Domain\bin\Debug\net7.0\UserManagement.Domain.dll
+D:\UserManagement.API\UserManagement.Domain\bin\Debug\net7.0\UserManagement.Domain.pdb
+D:\UserManagement.API\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\UserManagement.API\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.AssemblyInfoInputs.cache
+D:\UserManagement.API\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.AssemblyInfo.cs
+D:\UserManagement.API\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.csproj.CoreCompileInputs.cache
+D:\UserManagement.API\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.dll
+D:\UserManagement.API\UserManagement.Domain\obj\Debug\net7.0\refint\UserManagement.Domain.dll
+D:\UserManagement.API\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.pdb
+D:\UserManagement.API\UserManagement.Domain\obj\Debug\net7.0\ref\UserManagement.Domain.dll
