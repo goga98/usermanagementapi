@@ -1275,9 +1275,11 @@
         "type": "project",
         "framework": ".NETCoreApp,Version=v7.0",
         "dependencies": {
+          "Microsoft.AspNetCore.Identity.EntityFrameworkCore": "7.0.14",
           "Microsoft.EntityFrameworkCore": "7.0.14",
           "Microsoft.EntityFrameworkCore.SqlServer": "7.0.14",
-          "UserManagement.Domain": "1.0.0"
+          "UserManagement.Domain": "1.0.0",
+          "UserManagement.Shared": "1.0.0"
         },
         "compile": {
           "bin/placeholder/UserManagement.Infrastructure.dll": {}

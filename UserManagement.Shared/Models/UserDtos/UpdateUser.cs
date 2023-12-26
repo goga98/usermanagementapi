@@ -8,8 +8,8 @@ namespace UserManagement.Shared.Models.UserDtos
 {
     public class UpdateUser
     {
-        public int UserProfileId { get; set; }
+        public int UserRoleId { get; set; }
         public UpdateUserDto? User { get; set; }
-        public UpdateUserProfileDto? UserProfile { get; set; }
+        public UserRoles? UserRoles { get; set; }
     }
 }

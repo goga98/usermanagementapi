@@ -30,15 +30,12 @@ namespace UserManagement.Service
                 await _unitOfWork.UserRepository.InsertAsync(user);
                 await _unitOfWork.SaveChangesAsync();
 
-                var userProfile = new UserProfile
+                var userRole = new UserRole
                 {
-                    FirstName = model.UserProfile!.FirstName,
-                    LastName = model.UserProfile!.LastName,
-                    PersonalNumber = model.UserProfile.PersonalNumber,
-                    Role=model.UserProfile.Role,
+                    Role=model.UserRoles.Role,
                     User = user
                 };
-                await _unitOfWork.UserProfileRepository.InsertAsync(userProfile);
+                await _unitOfWork.UserRoleRepository.InsertAsync(userRole);
                 await _unitOfWork.SaveChangesAsync();
                 await _unitOfWork.CommitTransactionAsync();
             }
@@ -54,15 +51,13 @@ namespace UserManagement.Service
             await _unitOfWork.BeginTransactionAsync();
             try
             {
-                var userProfile = _unitOfWork.UserProfileRepository.GetUserWithProfile(model.UserProfileId).Result;
-                userProfile!.FirstName = model.UserProfile!.FirstName;
-                userProfile.LastName = model.UserProfile!.LastName;
-                userProfile.PersonalNumber = model.UserProfile!.PersonalNumber;
+                var userProfile = _unitOfWork.UserRoleRepository.GetUserWithProfile(model.UserRoleId).Result;
+                userProfile!.Role = model.UserRoles!.Role;
 
                 var user = await _unitOfWork.UserRepository.GetByIdAsync(userProfile.User!.UserId);
                 user.Username = model.User.Username;
 
-                _unitOfWork.UserProfileRepository.Update(userProfile);
+                _unitOfWork.UserRoleRepository.Update(userProfile);
                 _unitOfWork.UserRepository.Update(user);
 
                 await _unitOfWork.SaveChangesAsync();

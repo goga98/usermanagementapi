@@ -1,10 +1,12 @@
-﻿using Microsoft.EntityFrameworkCore;
+﻿using Microsoft.AspNetCore.Identity.EntityFrameworkCore;
+using Microsoft.EntityFrameworkCore;
 using System.Collections.Generic;
 using UserManagement.Domain.Entities;
+using UserManagement.Shared.Models.UserDtos;
 
 namespace UserManagement.Infrastructure
 {
-    public class UserManagementDbContext:DbContext
+    public class UserManagementDbContext:IdentityDbContext<UserDto>
     {
         #region Constructors
 
@@ -17,7 +19,7 @@ namespace UserManagement.Infrastructure
         #region Tables
 
         public virtual DbSet<User>? Users { get; set; }
-        public virtual DbSet<UserProfile>? UserProfiles { get; set; }
+        public virtual DbSet<UserRole>? UserRoles { get; set; }
 
         #endregion
     }

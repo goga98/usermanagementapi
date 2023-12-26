@@ -6,11 +6,9 @@ using System.Threading.Tasks;
 
 namespace UserManagement.Shared.Models.UserDtos
 {
-    public class InsertUserProfileDto
+    public class UserRoles
     {
-        public string? FirstName { get; set; }
-        public string? LastName { get; set; }
-        public string? PersonalNumber { get; set; }
+        public int UserRoleID { get; set; }
         public string? Role { get; set; }
     }
 }

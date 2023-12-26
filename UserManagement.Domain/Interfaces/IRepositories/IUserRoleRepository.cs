@@ -7,8 +7,8 @@ using UserManagement.Domain.Entities;
 
 namespace UserManagement.Domain.Interfaces.IRepositories
 {
-    public interface IUserProfileRepository : IRepository<UserProfile>
+    public interface IUserRoleRepository : IRepository<UserRole>
     {
-        Task<UserProfile?> GetUserWithProfile(int userProfileId);
+        Task<UserRole?> GetUserWithProfile(int userRoleId);
     }
 }

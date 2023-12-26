@@ -21,11 +21,11 @@ namespace UserManagement.Infrastructure
 
         #region Constructors
 
-        public UnitOfWork(IUserRepository userRepository, IUserProfileRepository userProfileRepository,
+        public UnitOfWork(IUserRepository userRepository, IUserRoleRepository UserRoleRepository,
             UserManagementDbContext dbContext)
         {
             UserRepository = userRepository;
-            UserProfileRepository = userProfileRepository;
+            UserRoleRepository = UserRoleRepository;
             _dbContext = dbContext;
         }
 
@@ -34,7 +34,7 @@ namespace UserManagement.Infrastructure
         #region IRepositories
 
         public IUserRepository UserRepository { get; set; }
-        public IUserProfileRepository UserProfileRepository { get; set; }
+        public IUserRoleRepository UserRoleRepository { get; set; }
 
         #endregion
 

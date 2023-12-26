@@ -177,6 +177,9 @@
             "projectReferences": {
               "D:\\usermanagementapi\\UserManagement.Domain\\UserManagement.Domain.csproj": {
                 "projectPath": "D:\\usermanagementapi\\UserManagement.Domain\\UserManagement.Domain.csproj"
+              },
+              "D:\\usermanagementapi\\UserManagement.Shared\\UserManagement.Shared.csproj": {
+                "projectPath": "D:\\usermanagementapi\\UserManagement.Shared\\UserManagement.Shared.csproj"
               }
             }
           }
@@ -191,6 +194,10 @@
         "net7.0": {
           "targetAlias": "net7.0",
           "dependencies": {
+            "Microsoft.AspNetCore.Identity.EntityFrameworkCore": {
+              "target": "Package",
+              "version": "[7.0.14, )"
+            },
             "Microsoft.EntityFrameworkCore": {
               "target": "Package",
               "version": "[7.0.14, )"

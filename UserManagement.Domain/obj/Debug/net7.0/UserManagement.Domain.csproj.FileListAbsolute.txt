@@ -9,3 +9,15 @@ D:\UserManagement.API\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Doma
 D:\UserManagement.API\UserManagement.Domain\obj\Debug\net7.0\refint\UserManagement.Domain.dll
 D:\UserManagement.API\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.pdb
 D:\UserManagement.API\UserManagement.Domain\obj\Debug\net7.0\ref\UserManagement.Domain.dll
+D:\usermanagementapi\UserManagement.Domain\bin\Debug\net7.0\UserManagement.Domain.deps.json
+D:\usermanagementapi\UserManagement.Domain\bin\Debug\net7.0\UserManagement.Domain.dll
+D:\usermanagementapi\UserManagement.Domain\bin\Debug\net7.0\UserManagement.Domain.pdb
+D:\usermanagementapi\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.GeneratedMSBuildEditorConfig.editorconfig
+D:\usermanagementapi\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.AssemblyInfoInputs.cache
+D:\usermanagementapi\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.AssemblyInfo.cs
+D:\usermanagementapi\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.csproj.CoreCompileInputs.cache
+D:\usermanagementapi\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.sourcelink.json
+D:\usermanagementapi\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.dll
+D:\usermanagementapi\UserManagement.Domain\obj\Debug\net7.0\refint\UserManagement.Domain.dll
+D:\usermanagementapi\UserManagement.Domain\obj\Debug\net7.0\UserManagement.Domain.pdb
+D:\usermanagementapi\UserManagement.Domain\obj\Debug\net7.0\ref\UserManagement.Domain.dll

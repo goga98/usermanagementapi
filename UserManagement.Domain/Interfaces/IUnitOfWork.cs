@@ -10,7 +10,7 @@ namespace UserManagement.Domain.Interfaces
     public interface IUnitOfWork
     {
         IUserRepository UserRepository { get; set; }
-        IUserProfileRepository UserProfileRepository { get; set; }
+        IUserRoleRepository UserRoleRepository { get; set; }
         Task SaveChangesAsync();
         Task BeginTransactionAsync();
         Task CommitTransactionAsync();

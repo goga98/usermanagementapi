@@ -9,6 +9,6 @@ namespace UserManagement.Shared.Models.UserDtos
     public class InsertDto
     {
         public InsertUserDto? User { get; set; }
-        public InsertUserProfileDto? UserProfile { get; set; }
+        public UserRoles? UserRoles { get; set; }
     }
 }

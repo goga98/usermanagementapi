@@ -11,5 +11,6 @@ namespace UserManagement.Shared.Models.UserDtos
     {
         public int UserId { get; set; }
         public string? Username { get; set; }
+        public UserDto? User { get; set; }
     }
 }
